@@ -6,7 +6,7 @@ title: Annmarie SanSevero's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="wor20005@byui.edu">wor20005@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/annmarieworthington/">LinkedIn</a>
 | <a href="https://annmarieinlr.github.io/">GitHub</a>
