@@ -1,89 +1,79 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Annmarie SanSevero's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Annmarie SanSevero (Worthington)
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/annmarieworthington/">LinkedIn</a>
+| <a href="https://annmarieinlr.github.io/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Fall 2022 `
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked on a variety of Data Science Projects, including researching names, flight data, and finding relationship ships in baseball statistics
+- Completed two Machine Learning projects: The first to predict when a home was built. The second to predict a person's income based on survey answers.
+- Used Python and Gradient Boost Classifier to establish new sampling algorithms
 
-### Data Science Lead
+`Spring 2022 `
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+_I was part a of a team that successfully completed the following projects:_
+- Created a machine learning model using decision trees to help a bank target a campaign to customers most likely to purchase.
+- Created a machine learning model using gradient boosted trees to estimate housing costs.
+- Built a neural network to help a bike company predict bike rentals on a given day and hour.
+- Built a neural network that helped self-driving cars recognize street signs.
+- Built a recurrent neural that could write a passage in the style of any writer when fed materials by the author.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Coding Experience
+- Proficient in Python, HTML, and SQL
+- Experience in Linux, JavaScript, C++, and Kotlin
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Additional Experience
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Feb. 1998–Present`
+__Home Educators of Greater Little Rock__, Education Coordinator
 
-### Data Science Consulting Team
+- Developed course curriculum for multiples classes that increased student ACT scores by a minimum of 5 points.
+-	Elected president of the association in 2019 leading over 450 families in their student’s education.
+-	Coordinated with the State Department of Education to increase cooperation and support with homeschool families.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`Feb. 2010–Present`
+__Infinity Dental Web__, Content Writer
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Increased 90% of client rankings to page one of Google.
+- Produce 48 blogs a month for 58% of company clients.
+- Trained other writers on tracking metrics to increase their client rankings.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`2018–Present`
+__Arkansas Symphony Youth Orchestras__, Support, Marketing & Mentor Coordinator (Volunteer Position)
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Increased online visibility and engagement with the Youth Orchestra Program by 420%.
+- Assisted the conductors and musicians with rehearsals and kept parents apprised of practice and performance information.
+- Began a mentor program within the three levels of the orchestras which gave the older youth teaching opportunities and improved community involvement with the orchestras.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec. 2022 -->
 
 
