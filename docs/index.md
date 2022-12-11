@@ -19,7 +19,7 @@ title: Annmarie SanSevero's Resume
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.7 Major GPA
+- 3.72 Major GPA
 
 
 ## Related Experience
@@ -29,15 +29,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Fall 2022 `
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on a variety of Data Science Projects, including researching names, flight data, and finding relationship ships in baseball statistics
+- Worked on a variety of Data Science Projects, including researching names, flight data, and finding relationships in baseball statistics.
 - Completed two Machine Learning projects: The first to predict when a home was built. The second to predict a person's income based on survey answers.
-- Used Python and Gradient Boost Classifier to establish new sampling algorithms
+- Focused on Python and Data Visualization of the projects.
 
 `Spring 2022 `
 __Brigham Young University - Idaho__, Rexburg, ID
 
-_I was part a of a team that successfully completed the following projects:_
-- Created a machine learning model using decision trees to help a bank target a campaign to customers most likely to purchase.
+_I was part of a team that successfully completed the following projects:_
+- Created a machine learning model using decision trees to help a bank target a campaign to the right customers.
 - Created a machine learning model using gradient boosted trees to estimate housing costs.
 - Built a neural network to help a bike company predict bike rentals on a given day and hour.
 - Built a neural network that helped self-driving cars recognize street signs.
@@ -53,7 +53,7 @@ _I was part a of a team that successfully completed the following projects:_
 __Home Educators of Greater Little Rock__, Education Coordinator
 
 - Developed course curriculum for multiples classes that increased student ACT scores by a minimum of 5 points.
--	Elected president of the association in 2019 leading over 450 families in their student’s education.
+-	Elected president of the Homeschool Association in 2019 leading over 450 families in their student’s education.
 -	Coordinated with the State Department of Education to increase cooperation and support with homeschool families.
 
 `Feb. 2010–Present`
